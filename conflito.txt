@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ola tudo bem
-=======
 ola, tudo bem
->>>>>>> branch-b
